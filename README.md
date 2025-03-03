@@ -5,6 +5,10 @@ Real-time face recognition and demographic analysis system. It uses a combinatio
 
 The system detects customers, recognizes if they are returning visitors, estimates their age and gender, and logs their visits in an **SQLite database** for customer tracking and analytics.
 
+We aim to optimize membership management and personalized marketing for supermarkets in Vietnam — a concept that has not yet been fully utilized in the local retail industry. Our solution leverages surveillance camera feeds to track and recognize customers, automatically detecting their age and gender using AI. By combining this demographic information with purchase data from receipts, we can recommend and deliver personalized promotions tailored to each customer group, encouraging repeat purchases and enhancing customer loyalty.
+
+Unfortunately, due to challenges in finding a supermarket willing to partner with us, we were unable to fully integrate this system into a real-world store environment. However, we strongly believe that this idea has the potential to become a powerful tool for supermarkets in the future, helping them better understand their customers and offer more relevant promotions.
+
 ---
 
 ## 📂 Folder Structure
